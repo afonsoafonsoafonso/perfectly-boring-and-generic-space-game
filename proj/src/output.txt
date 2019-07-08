@@ -1,0 +1,2 @@
+h_res:1024 ; v_res:768 ; bits_per_pixel:16
+base:3758096384 ; limit:3759669248 ; size:1572864
